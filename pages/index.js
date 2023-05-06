@@ -1,4 +1,4 @@
-import styles from '@/styles/Home.module.css'
+import styles from "@/styles/Home.module.css";
 
 export default function Home() {
   return (
@@ -7,5 +7,5 @@ export default function Home() {
         <h1>Hello Next.js!</h1>
       </div>
     </>
-  )
+  );
 }
